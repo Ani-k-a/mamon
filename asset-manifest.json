@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mamon/static/css/main.7acaea2f.css",
+    "main.js": "/mamon/static/js/main.07d3183d.js",
+    "index.html": "/mamon/index.html",
+    "main.7acaea2f.css.map": "/mamon/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/mamon/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
