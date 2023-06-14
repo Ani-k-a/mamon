@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/mamon/static/css/main.7acaea2f.css",
-    "main.js": "/mamon/static/js/main.07d3183d.js",
+    "main.css": "/mamon/static/css/main.71c53a6b.css",
+    "main.js": "/mamon/static/js/main.cd247c64.js",
+    "static/media/1.svg": "/mamon/static/media/1.f11e57305abc25f56ec3a1961da68c0e.svg",
+    "static/media/3.svg": "/mamon/static/media/3.1304334631dbb4be1f4fb5f220339abe.svg",
     "index.html": "/mamon/index.html",
-    "main.7acaea2f.css.map": "/mamon/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/mamon/static/js/main.07d3183d.js.map"
+    "static/media/2.svg": "/mamon/static/media/2.040eeb787b44df8e8bac4205f4cdc9c4.svg",
+    "static/media/4.svg": "/mamon/static/media/4.1653b8bae799f6c15a2a9306f40ee56b.svg",
+    "static/media/mamon-logo.svg": "/mamon/static/media/mamon-logo.26639dd471d0e75d235796c113fb1118.svg",
+    "main.71c53a6b.css.map": "/mamon/static/css/main.71c53a6b.css.map",
+    "main.cd247c64.js.map": "/mamon/static/js/main.cd247c64.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.71c53a6b.css",
+    "static/js/main.cd247c64.js"
   ]
 }
