@@ -14,22 +14,22 @@ export default function Footer() {
         <img src={logo} alt="mamon logo" className={css.img}></img>
         <ul className={css.list}>
           <li>
-            <a href="">
+            <a href="https://github.com/">
               <img src={logo1} alt="logo"></img>
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="https://github.com/">
               <img src={logo2} alt="logo"></img>
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="https://github.com/">
               <img src={logo3} alt="logo"></img>
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="https://github.com/">
               <img src={logo4} alt="logo"></img>
             </a>
           </li>
