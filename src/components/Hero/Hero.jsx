@@ -11,7 +11,7 @@ export default function Hero() {
         we build rock-solid Mobile and Web applications enriched with
         user-centered visual experiences.
       </p>
-      <Button></Button>
+      <Button width="235" height="60"></Button>
     </div>
   );
 }

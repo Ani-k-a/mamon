@@ -7,7 +7,7 @@ export default function Clients() {
   return (
     <ul className={css.list}>
       {clients.map(el => (
-        <ClientItem key={el.key} {...el} />
+        <ClientItem key={el.id} {...el} />
       ))}
     </ul>
   );

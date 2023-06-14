@@ -1,6 +1,8 @@
 .section {
-  padding-top: 50px;
-  padding-bottom: 100px;
+  padding: 50px 15px 100px 15px;
+  width: 1215px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .title {
   font-weight: 700;

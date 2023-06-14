@@ -1,0 +1,13 @@
+.item {
+  display: flex;
+}
+.title {
+  font-size: 28px;
+  line-height: 32px;
+  margin-bottom: 17px;
+}
+.description {
+  font-size: 14px;
+  line-height: 16px;
+  color: #b2b2b2;
+}

@@ -10,12 +10,8 @@ import Footer from './Footer/Footer';
 export const App = () => {
   return (
     <>
-      <Section>
-        <Header></Header>
-      </Section>
-      <Section>
-        <Hero></Hero>
-      </Section>
+      <Header />
+      <Hero />
       <Section title={'OUR SERVICES'}>
         <Services></Services>
       </Section>
